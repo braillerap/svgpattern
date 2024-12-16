@@ -16,3 +16,6 @@ pip install -r requirements.txt
 ```
 python buildpattern_package.py
 ```
+
+you should have a packagesvg.json in current directory, you can use it in DesktopBrailleRAP source file
+
